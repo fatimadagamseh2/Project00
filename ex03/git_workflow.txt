@@ -1,0 +1,19 @@
+Git Workflow
+
+1. Edit:
+   Modify or create the project files.
+
+2. Add:
+   git add README.md git_workflow.txt
+
+   This stages the changes for the next commit.
+
+3. Commit:
+   git commit -m "Add project documentation"
+
+   This saves the staged changes in the local Git repository.
+
+4. Push:
+   git push
+
+   This sends the committed changes to the remote GitHub repository.
